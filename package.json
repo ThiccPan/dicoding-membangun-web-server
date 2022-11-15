@@ -6,8 +6,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start-module-1": "node membuat-http-server/index.js",
-    "start-module-2": "node method-verb-request/index.js"
+    "start-module-2": "node method-verb-request/index.js",
+    "start-module-3": "node body-request/index.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
 }
