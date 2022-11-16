@@ -5,9 +5,10 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start-module-1": "node membuat-http-server/index.js",
-    "start-module-2": "node method-verb-request/index.js",
-    "start-module-3": "node body-request/index.js"
+    "start-module-1": "nodemon membuat-http-server/index.js",
+    "start-module-2": "nodemon method-verb-request/index.js",
+    "start-module-3": "nodemon body-request/index.js",
+    "start-module-4": "nodemon routing-request/index.js"
   },
   "author": "",
   "license": "ISC",
