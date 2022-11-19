@@ -9,7 +9,8 @@
     "start-module-2": "nodemon method-verb-request/index.js",
     "start-module-3": "nodemon body-request/index.js",
     "start-module-4": "nodemon routing-request/index.js",
-    "start-module-5": "nodemon response-status-and-header/index.js"
+    "start-module-5": "nodemon response-status-and-header/index.js",
+    "start-module-6": "nodemon response-body/index.js"
   },
   "author": "",
   "license": "ISC",
